@@ -8,11 +8,9 @@ Optional styling for bbplayer elements.
   font: 200 16px/1.5 Lato,"Helvetica Neue",Helvetica,Arial,sans-serif;
   color: #898989;
   width: 50%;
-  border: 1px solid #E0E0E0;
   display: inline-block;
   padding: 5px;
-  box-shadow: 0 0 5px rgba(100,100,100,0.2);
-  margin-top: 50px;
+  margin-top: 2%;
   margin-bottom: 2%;
 }
 
@@ -75,7 +73,7 @@ Optional styling for bbplayer elements.
   display: inline-block;
   vertical-align: middle;
   font-weight: bold;
-  width: 8em;
+  width: 20em;
   overflow: hidden;
   text-align: center;
 }
