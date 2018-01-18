@@ -59,8 +59,9 @@
 		background: #111;
 		font: 14px/21px "Lato", sans-serif;
 		color: #444;
-		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
+		-webkit-font-smoothing: subpixel-antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
+		font-weight: normal;
  }
 
 
