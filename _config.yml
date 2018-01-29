@@ -16,7 +16,7 @@ markdown: kramdown
 ### content configuration ###
 title:       "7thform"
 keywords:    "7thform"
-description: "7thform"
+description: "Label"
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     ""
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
