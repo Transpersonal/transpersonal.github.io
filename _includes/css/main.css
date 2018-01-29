@@ -188,7 +188,7 @@ nav ul li:hover, nav ul li.active {
   padding: 8px 0;
   min-height:0;
   text-align:center;
-  background-color:#2e2e2e;
+  background-color:#3b3b3b;
   background-image:none;
 }
 #footer .container p { font-size:13px; margin:0; }
@@ -325,13 +325,18 @@ nav ul li:hover, nav ul li.active {
 
 /* anything not desktop */
 @media only screen and (max-width: 767px) {
-	.container h1 { font-size: 30px; }
+	.container h1 { font-size: 100px; margin-top: 20px; margin-bottom: 0px;}
 	.container h2 { font-size: 24px; }
 	.container h3 { font-size: 20px; }
 	.container h4 { font-size: 18px; }
 
+  #into.section {
+    margin-bottom: 0px;
+    min-heigh: 100px;
+  }
 
-  .section { padding:130px 0; }
+
+  .section { padding:20px 0; }
   .sectiondivider {
     width:200px;
     height:200px;

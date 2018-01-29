@@ -61,12 +61,14 @@ Optional styling for bbplayer elements.
   display: inline-block;
   vertical-align: middle;
   font-size: 14px;
+  display: none;
 }
 
 .bb-trackLength {
   display: inline-block;
   vertical-align: middle;
   font-size: 14px;
+  display: none;
 }
 
 .bb-trackTitle {
@@ -122,6 +124,10 @@ Optional styling for bbplayer elements.
   background: #EFEFEF;
 }
 
+.bb-col-1 {
+  padding-top: 20px;
+}
+
 @media all and (max-width: 480px) {
 
   .bbplayer {
@@ -151,4 +157,3 @@ Optional styling for bbplayer elements.
   }
 
 }
-
